@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PointsApp/static/css/main.0b06dec0.css",
+    "main.js": "/PointsApp/static/js/main.3e9c19fe.js",
+    "static/js/453.be3c2250.chunk.js": "/PointsApp/static/js/453.be3c2250.chunk.js",
+    "index.html": "/PointsApp/index.html",
+    "main.0b06dec0.css.map": "/PointsApp/static/css/main.0b06dec0.css.map",
+    "main.3e9c19fe.js.map": "/PointsApp/static/js/main.3e9c19fe.js.map",
+    "453.be3c2250.chunk.js.map": "/PointsApp/static/js/453.be3c2250.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b06dec0.css",
+    "static/js/main.3e9c19fe.js"
+  ]
+}
